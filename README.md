@@ -2,7 +2,7 @@
 
 ## Description
 
-The `Calculator.java` file evaluates postfix expressions using a stack.
+The `Calculator.java` file evaluates postfix expressions using a stack. This program was created to complete an aspect of the Algorithms and Data Structures assignment by the University of Huddersfield.
 
 ## Usage
 
@@ -17,7 +17,7 @@ The `Calculator.java` file evaluates postfix expressions using a stack.
 
 ## Example
 
-Given the input: 
+Given the input:
 
 "4 5 + 1 2 * - 5 /"
 
@@ -26,4 +26,14 @@ The program will output:
 Result: -1.0
 
 
+## Requirements
 
+- Java Development Kit (JDK)
+
+## Compilation and Execution
+
+To compile and run the program, use the following commands:
+
+```sh
+javac Calculator.java
+java Calculator
